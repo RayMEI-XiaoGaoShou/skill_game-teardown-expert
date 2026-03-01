@@ -1,4 +1,4 @@
-# Game Teardown Expert (游戏深度分析与逆向拆解专家)
+# 游戏分析与逆向拆解专家 Skill
 
 [![Oh My OpenCode Skill](https://img.shields.io/badge/OpenCode-Skill-blue.svg)](https://github.com/code-yeongyu/oh-my-opencode)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +7,7 @@
 
 ## 🌟 核心特性 (Features)
 
-本 Skill 突破了单体大模型的“幻觉”与“惰性”限制，采用了教科书级的 **Map-Reduce 并行架构**：
+本 Skill 突破了单体大模型的 “幻觉” 与 “惰性” 限制，采用了 Map-Reduce 并行架构：
 
 1. **五大视角并发 (Map 阶段)**：同时唤起 5 个专职 Subagents（制作人、主策、主美、运营总监、战略分析师），各自携带长达 200+ 行的专业级验收 SOP 去全网检索信息。
 2. **高价值信源过滤**：内置防幻觉（Anti-Hallucination）降级策略，强制要求附带 Execution Log（执行日志）。
@@ -37,14 +37,8 @@ game-teardown-expert/
 
 ## 💡 如何使用 (Usage)
 
-重启你的 OpenCode 客户端，开启一个新的 Session，然后输入以下指令：
+重启你的 Agent 客户端，开启一个新的 Session，然后输入以下指令：
 
-> "请使用 `skill(name='game-teardown-expert')` 对《幻兽帕鲁》进行一份完整的立项和逆向分析。"
+> "请使用 `skill(name='game-teardown-expert')` 对《xxx》进行分析。"
 
 系统将自动触发环境自检，随后你将看到后台并发启动 5 个任务，并在 1-2 分钟内交付几万字的深度研报。
-
-## 🤝 贡献与迭代 (Contributing)
-如果你在生成的 `Execution_Log.md` 中发现了对 `teardown_sop_framework.md` 的优秀迭代建议，欢迎提交 Pull Request 来共同完善这个游戏分析框架！
-
----
-*Created by [Your Name/Handle] - 致力于将顶尖游戏投研方法论 AI 工程化。*
