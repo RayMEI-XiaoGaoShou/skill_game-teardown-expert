@@ -3,7 +3,7 @@
 [![Oh My OpenCode Skill](https://img.shields.io/badge/OpenCode-Skill-blue.svg)](https://github.com/code-yeongyu/oh-my-opencode)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-基于 **Oh My OpenCode (OMO)** 框架开发的多智能体 (Multi-Agent) 游戏分析工具。它能够模拟顶尖游戏公司的预研与投资团队，对任何给定的游戏进行全方位、专业级的深度拆解。
+基于 **Oh My OpenCode (OMO)** 框架多智能体能力的游戏分析 Skill。它能够模拟顶尖游戏公司的预研与投资团队，对任何给定的游戏进行较全面的拆解，适用于快速对一款游戏建立认知。
 
 ## 🌟 核心特性 (Features)
 
