@@ -3,7 +3,7 @@
 [![Oh My OpenCode Skill](https://img.shields.io/badge/OpenCode-Skill-blue.svg)](https://github.com/code-yeongyu/oh-my-opencode)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-基于 **Oh My OpenCode (OMO)** 框架多智能体能力的游戏分析 Skill。它能够模拟顶尖游戏公司的预研与投资团队，对任何给定的游戏进行较全面的拆解，适用于快速对一款游戏建立认知。
+基于 **Oh My OpenCode (OMO)** 框架多智能体能力的游戏分析 Skill。它能够对任何给定的游戏进行较全面的拆解，适用于快速对一款游戏建立认知。
 
 ## 🌟 核心特性 (Features)
 
@@ -41,4 +41,4 @@ game-teardown-expert/
 
 > "请使用 `skill(name='game-teardown-expert')` 对《xxx》进行分析。"
 
-系统将自动触发环境自检，随后你将看到后台并发启动 5 个任务，并在 1-2 分钟内交付几万字的深度研报。
+系统将自动触发环境自检，随后你将看到后台并发启动 5 个任务，并在 15 分钟内交付报告。
